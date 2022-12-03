@@ -6,7 +6,7 @@
 
 .container {
     position: relative;
-    width: 1440px;
+    max-width: 1440px;
     margin: 0 auto;
 }
 
@@ -453,7 +453,7 @@ nav a:hover {
     margin-top: 0px;
     padding-top: 165px;
     height: 475px;
-    background: url(/img/Vector.png),
+    background: url(../img/Vector.png),
     linear-gradient(121deg, 
     rgba(221,22,107,1) 8%, rgba(113,0,179,1) 97%);
     background-size: 100%;
