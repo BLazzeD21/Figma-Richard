@@ -512,3 +512,112 @@ nav a:hover {
 button {
     cursor: pointer;
 }
+
+.subscribe {
+    padding-top: 129px;
+    padding-bottom: 126px;
+    height: 463px;
+    background: #1B1B1B;
+}
+
+.subscribe .sub_title {
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.subscribe .sub_text {
+    margin-top: 20px;
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px; 
+    text-align: center;
+    color: #6B6B6B;
+}
+
+.subscribe .sub_inputbox {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.subscribe .sub_inputbox .sub_input #email {
+    height: 70px;
+    width: 311px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 0px #FC0A7E;
+    border-radius: 3px 0px 0px 3px;
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-left: 25px;
+}
+
+.subscribe .sub_inputbox .sub_btn .subscribe_btn {
+    height: 70px;
+    width: 154px;
+    background: #FC0A7E;
+    border: none;
+    border-radius: 0px 3px 3px 0px;
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.footer {
+    padding-top: 20px;
+    padding-bottom: 69px;
+    height: 242px;
+    background: #1B1B1B;
+}
+
+
+.footer .footer_logo {
+    display: block;
+    margin: 0 auto;
+}
+.footer .footer_menu {
+    max-width: 545px;
+    margin: 0 auto;
+    margin-top: 29px;
+}
+
+.footer .footer_list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer .footer_item {
+    margin-right: 30px;
+}
+
+.footer .footer_item:last-child {
+    margin-right: 0;
+}
+
+.footer .footer_item {
+    list-style-type: none;
+}
+.footer .footer_link {
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    color: #6B6B6B;
+    text-decoration: none;
+    
+}
+
