@@ -245,6 +245,7 @@ nav a:hover {
     display: flex;
     justify-content: center;
 }
+
 .benefits_list .benefits_item .benefits_title {
     margin-top: 40px;
     font-family: 'Gothic A1';
@@ -313,7 +314,6 @@ nav a:hover {
     margin-left: 77px;
 }
 
-
 .food .food_text {
     margin-top: 17px;
     font-family: 'Gothic A1';
@@ -354,6 +354,7 @@ nav a:hover {
 .quote {
     margin-top: 162px;
 }
+
 .quote .quotes {
     display: block;
     margin: 0 auto;
@@ -477,7 +478,6 @@ nav a:hover {
 }
 
 .download_btns .download-btn {
-
     height: 66px;
     width: 190px;
     background: #FC0A7E;
@@ -495,6 +495,7 @@ nav a:hover {
 .download_btns .first_btn {
     margin-right: 10px;
 }
+
 .download_btns .touch-btn {
     height: 66px;
     width: 190px;
@@ -582,11 +583,11 @@ button {
     background: #1B1B1B;
 }
 
-
 .footer .footer_logo {
     display: block;
     margin: 0 auto;
 }
+
 .footer .footer_menu {
     max-width: 545px;
     margin: 0 auto;
@@ -609,6 +610,7 @@ button {
 .footer .footer_item {
     list-style-type: none;
 }
+
 .footer .footer_link {
     font-family: 'Gothic A1';
     font-style: normal;
@@ -618,6 +620,5 @@ button {
     text-align: center;
     color: #6B6B6B;
     text-decoration: none;
-    
 }
 
